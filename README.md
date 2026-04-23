@@ -7,8 +7,8 @@ I am a B.Tech Computer Science student currently in 2nd year, passionate about D
 
 # Skills
 
-* Programming: Python, HTML
-* Tools: Anaconda, Jupyter Notebook
+* Programming: Python, c
+* Tools: Anaconda, Jupyter Notebook, Github
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 
@@ -19,10 +19,6 @@ I am a B.Tech Computer Science student currently in 2nd year, passionate about D
 * Created charts like bar, pie, heatmaps
 * Tools: Seaborn, Plotly
 
-
-#  Achievements
-
-* playes district level in kabaddi 
 
 
 ##  Education
@@ -36,3 +32,10 @@ I am a B.Tech Computer Science student currently in 2nd year, passionate about D
 * Email: [khureshirihan57@gmail.com]
 * GitHub: [(https://github.com/rihankhureshi)]
 * linkdein : [(www.linkedin.com/in/rihan-dastagir-khureshi-a09211328)]
+
+
+# Extra Activities
+
+#  Achievements
+
+* playes district level in kabaddi 
